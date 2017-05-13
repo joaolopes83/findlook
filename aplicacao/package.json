@@ -1,0 +1,18 @@
+{
+  "name": "find",
+  "version": "1.0.0",
+  "description": "encontrar algo em função da localização",
+  "main": "index.js",
+  "scripts": {
+    "test": "aa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aa"
+  },
+  "keywords": [
+    "find;things"
+  ],
+  "author": "Joao Lopes",
+  "license": "ISC"
+}
