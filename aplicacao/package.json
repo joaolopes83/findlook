@@ -1,5 +1,5 @@
 {
-  "name": "find",
+  "name": "findlook",
   "version": "1.0.0",
   "description": "encontrar algo em função da localização",
   "main": "index.js",
@@ -14,5 +14,12 @@
     "find;things"
   ],
   "author": "Joao Lopes",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "save": "^2.3.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
