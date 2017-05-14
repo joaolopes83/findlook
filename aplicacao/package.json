@@ -1,5 +1,5 @@
 {
-  "name": "findlook",
+  "name": "aplicacao",
   "version": "1.0.0",
   "description": "encontrar algo em função da localização",
   "main": "index.js",
@@ -20,6 +20,10 @@
     "save": "^2.3.0"
   },
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^0.4.5",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
   }
 }
